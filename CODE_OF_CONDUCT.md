@@ -131,3 +131,5 @@ Community Impact Guidelines were inspired by
 For answers to common questions about this code of conduct, see the FAQ
 at https://www.contributor-covenant.org/faq. Translations are available
 at https://www.contributor-covenant.org/translations.
+
+Feel free to reach out on [Slack](https://hooks.slack.com/services/T12345678/B12345678/abcd1234efgh5678ijkl90zy).
